@@ -35,6 +35,9 @@ It features limited attempts, multiple rounds, and score tracking to enhance gam
 
 ---
 
+## 🖼️ Demo 🎥 *Watch the video demo here*.
+https://lnkd.in/p/dp2TPNhq
+
 ## ⚙️ Installation & Usage  
 ```bash
 # 📥 Clone the repository
