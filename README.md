@@ -1,4 +1,4 @@
-# 🔢 Number-Guessing-Game  
+# 🔢 Number-Guessing-Game: CodSoft 
 A **Java Console-based Number Guessing Game** that challenges players to guess a randomly generated number within a specified range.  
 It features limited attempts, multiple rounds, and score tracking to enhance gameplay.  
 
